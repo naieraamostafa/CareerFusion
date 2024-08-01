@@ -60,3 +60,6 @@ Objectives for Users
  # Flask: 
   Python framework used for CV screening and generating career roadmaps and job recommendations.
 
+# Additional Resources
+ If you want to see the presentation, demo for the mobile application, and website for CareerFusion, here is the link to the drive:
+ https://docs.google.com/presentation/d/1JdllaAgTxwA61NtpEpCGfmGiHaB6-l0I/edit?usp=sharing&ouid=110352487286829314681&rtpof=true&sd=true
