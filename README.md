@@ -42,7 +42,7 @@ Objectives for Users
   o	Create a framework for conducting meaningful performance appraisals that are structured, objective, and conducive to employee development.
   o	Include tools for setting clear performance metrics, gathering feedback, and planning future growth objectives, thereby enhancing employee satisfaction and retention.
 
-# Used Technologies In This Project:
+# Used Technologies In This Project
 
  # ASP.NET Core Web API:
   Backend development for the application's server-side logic.
