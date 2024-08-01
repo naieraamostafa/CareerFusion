@@ -6,6 +6,7 @@ In the rapidly evolving job market, job seekers and HR professionals face distin
 
 # Problems For Job Seekers
 1-Complexity of managing numerous job applications, which leads to difficulties in tracking application statuses, preparing appropriately for different stages of the recruitment process.
+
 2-Lack of personalized guidance in career development.
 # Problems For Corporate HR
 1.	Initial Stages of Hiring:
