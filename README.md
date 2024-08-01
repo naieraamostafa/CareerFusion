@@ -34,14 +34,17 @@ Objectives for Users
     
   -	Offer tools for effective planning and oversight, ensuring that each phase of the hiring process, from job posting to onboarding, is completed within the allocated timeframe.
 2.	Optimize Job Announcement Strategies:
-  o	Implement features that streamline the creation and distribution of job postings.
-  o	Efficiently search through existing CVs in the database, maximizing the reach and effectiveness of job announcements or by weite post for announcement .
+  -	Implement features that streamline the creation and distribution of job postings.
+    
+  -	Efficiently search through existing CVs in the database, maximizing the reach and effectiveness of job announcements or by weite post for announcement .
 3.	Streamline Interview and Assessment Coordination:
-  o	Provide a comprehensive suite of tools for scheduling and managing different types of interviews (phone, technical, etc.), as well as coordinating assessments or tasks.
-  o	Facilitate seamless communication between HR professionals and candidates, ensuring that all parties are well-informed and prepared for each step of the process.
+  - Provide a comprehensive suite of tools for scheduling and managing different types of interviews (phone, technical, etc.), as well as coordinating assessments or tasks.
+    
+  -	Facilitate seamless communication between HR professionals and candidates, ensuring that all parties are well-informed and prepared for each step of the process.
 4.	Facilitate Effective Performance Appraisals:
-  o	Create a framework for conducting meaningful performance appraisals that are structured, objective, and conducive to employee development.
-  o	Include tools for setting clear performance metrics, gathering feedback, and planning future growth objectives, thereby enhancing employee satisfaction and retention.
+  - Create a framework for conducting meaningful performance appraisals that are structured, objective, and conducive to employee development.
+    
+  -	Include tools for setting clear performance metrics, gathering feedback, and planning future growth objectives, thereby enhancing employee satisfaction and retention.
 
 # Used Technologies In This Project
 
