@@ -30,8 +30,9 @@ Objectives for Users
 
 # Objectives for Corporate HR
 1.	Enhance Hiring Needs Definition and Timeline Management:
-  o	Develop a system that assists HR professionals in clearly defining hiring needs and setting realistic timelines for the entire recruitment process.
-  o	Offer tools for effective planning and oversight, ensuring that each phase of the hiring process, from job posting to onboarding, is completed within the allocated timeframe.
+  - Develop a system that assists HR professionals in clearly defining hiring needs and setting realistic timelines for the entire recruitment process.
+    
+  -	Offer tools for effective planning and oversight, ensuring that each phase of the hiring process, from job posting to onboarding, is completed within the allocated timeframe.
 2.	Optimize Job Announcement Strategies:
   o	Implement features that streamline the creation and distribution of job postings.
   o	Efficiently search through existing CVs in the database, maximizing the reach and effectiveness of job announcements or by weite post for announcement .
