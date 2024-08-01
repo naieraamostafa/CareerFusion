@@ -1,4 +1,4 @@
-CareerFusion App
+CareerFusion (Graduation Project)
 ------------------------
 
 # Introduction
