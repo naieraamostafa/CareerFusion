@@ -37,7 +37,7 @@ Objectives for Users
 2.	Optimize Job Announcement Strategies:
   -	Implement features that streamline the creation and distribution of job postings.
     
-  -	Efficiently search through existing CVs in the database, maximizing the reach and effectiveness of job announcements or by weite post for announcement .
+  -	Efficiently search through existing CVs in the database, maximizing the reach and effectiveness of job announcements or by write post for announcement .
 3.	Streamline Interview and Assessment Coordination:
   - Provide a comprehensive suite of tools for scheduling and managing different types of interviews (phone, technical, etc.), as well as coordinating assessments or tasks.
     
